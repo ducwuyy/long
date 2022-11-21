@@ -1,0 +1,428 @@
+    *{
+        zoom: 100%;
+    }
+    .img1{
+        width: 100%;
+    }
+    .img2{
+        position: absolute;
+        padding-left: 8%;
+        padding-top: 4%;
+    }
+    .h1{
+        position: absolute;
+        text-align: center;
+        padding-left: 460px;
+        padding-top: 140px;
+        color: white;
+        font-size: 100px;
+        font-weight: bold;
+    }
+    .container {
+        font-family: 'PT Sans Narrow', sans-serif;
+        font-family: 'Roboto Slab', serif;
+        box-sizing: border-box;
+        margin: 0 auto;
+    } 
+    .ul1 {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        float: right;
+        margin-top: 38px;
+        margin-right: 110px;
+    }
+    .img3{
+        width: 100%;
+    }
+    #h2{
+        position: absolute;
+        text-align: center;
+        padding-left: 630px;
+        color: cornflowerblue;
+        font-size: 40px;
+        font-weight: bold;
+        padding-top: 1000px;
+
+    }
+    .ac1{
+        position: absolute;
+        margin-left: 8% ;
+        padding-top: 1150px;
+    }
+    .ac2{
+        position: absolute;
+        margin-left: 38% ;
+        padding-top: 1150px;
+    }
+    .ac3{
+        position: absolute;
+        margin-left: 68% ;
+        padding-top: 1150px;
+    }
+    .cx1{
+        position: absolute;
+        padding-top: 1450px;
+        padding-left: 9%;
+        font-weight: bold;
+        color: rgb(42, 20, 92);
+    }
+    .cx2{
+        position: absolute;
+        padding-top: 1500px;
+        padding-left: 9%;
+        color: rgb(42, 20, 92);
+    }
+    .cx3{
+        position: absolute;
+        padding-top: 1600px;
+        padding-left: 9%;
+        font-weight: bold;
+        color: rgb(42, 20, 92);
+    }
+    /*  */
+    .qx1{
+        position: absolute;
+        padding-top: 1450px;
+        padding-left: 39%;
+        font-weight: bold;
+        color: rgb(42, 20, 92); 
+        
+        
+    }
+    .qx2{
+        position: absolute;
+        padding-top: 1500px;
+        padding-left: 39%;
+        color: rgb(42, 20, 92);
+    }
+    .qx3{
+        position: absolute;
+        padding-top: 1600px;
+        padding-left: 39%;
+        font-weight: bold;
+        color: rgb(42, 20, 92);
+    }
+    /*  */
+    .sa1{
+        position: absolute;
+        padding-top: 1450px;
+        padding-left: 69%;
+        font-weight: bold;
+        color: rgb(42, 20, 92);
+    }
+    .sa2{
+        position: absolute;
+        padding-top: 1500px;
+        padding-left: 69%;
+        color: rgb(42, 20, 92);
+    }
+    .sa3{
+        position: absolute;
+        padding-top: 1600px;
+        padding-left: 69%;
+        font-weight: bold;
+        color: rgb(42, 20, 92);
+    }
+    /*  */
+    .button1{
+        position: absolute;
+        width: 180px;
+        height: 50px;
+        color: white;
+        border: 0.1px;
+        border-radius: 30px;
+        background-color: aqua;
+        margin-left: 46%;
+        margin-top: 1760px;
+    }
+    .img4{
+        width: 100%;
+    }
+    /*  */
+    .fac1{
+        position: absolute;
+        padding-left: 800px;
+        font-weight: bold;
+        font-size: 80px;
+        padding-top: 50px ;
+    }
+    .fac2{
+        position: absolute;
+        padding-top: 360px;
+        padding-left: 800px;
+        font-size: 30px ;
+    }
+    .button2{
+        position: absolute;
+        width: 180px;
+        height: 55px;
+        color: white;
+        border: 0.1px;
+        border-radius: 30px;
+        background-color: aqua;
+        margin-left: 53%;
+        margin-top: 630px;
+    }
+    /*  */
+    .img5{
+        width: 100% ;
+    }
+    .gs1{
+        position: absolute;
+        padding-left: 10px;
+        font-weight: bold;
+        font-size: 80px;
+        padding-top: 35px ;
+        color:black;
+    }
+    .gs2{
+        position: absolute;
+        padding-top: 320px;
+        padding-left: 10px;
+        font-size: 30px;
+    }
+    .button3{
+        position: absolute;
+        width: 180px;
+        height: 55px;
+        color: white;
+        border: 0.1px;
+        border-radius: 30px;
+        background-color: aqua;
+        margin-left: 10px;
+        margin-top: 600px;
+    }
+    /*  */
+    .img6{
+        width: 100%;
+    }
+    #ip1{
+        color: white;
+        position: absolute;
+        font-weight: bold;
+        padding-top: 30px;
+        padding-left: 605px;
+        font-size: 40px;
+    }
+    #ip2{
+        color: white;
+        position: absolute;
+        font-weight: bold;
+        padding-top: 350px;
+        padding-left: 269px;
+        font-size: 35px;
+    }
+    #ip3{
+        color: white;
+        position: absolute;
+        padding-top: 450px;
+        padding-left: 180px;
+        font-size: 15px;
+        text-align: center;
+    }
+    #ip4{
+        color: white;
+        position: absolute;
+        font-weight: bold;
+        padding-top: 350px;
+        padding-left: 645px;
+        font-size: 35px;
+    }
+    #ip5{
+        color: white;
+        position: absolute;
+        padding-top: 450px;
+        padding-left: 610px;
+        font-size: 15px;
+        text-align: center;
+    }
+    #ip6{
+        color: white;
+        position: absolute;
+        font-weight: bold;
+        padding-top: 350px;
+        padding-left: 1125px;
+        font-size: 35px;
+    }
+    #ip7{
+        color: white;
+        position: absolute;
+        padding-top: 450px;
+        padding-left: 1045px;
+        font-size: 15px;
+        text-align: center;
+    }
+    /*  */
+    .img7{
+        width: 100%;
+    }
+    #ok1{
+        color: blue;
+        position: absolute;
+        font-weight: bold;
+        padding-top: 70px;
+        padding-left: 38%;
+        font-size: 60px;
+    }
+    #ok2{
+        color: rgb(25, 108, 133);
+        position: absolute;
+        padding-top: 220px;
+        padding-left: 33%;
+        font-size: 18px;
+        text-align: center;
+    }
+    .button4{
+        position: absolute;
+        width: 230px;
+        height: 60px;
+        color: white;
+        border: 0.1px;
+        border-radius: 30px;
+        background-color: rgb(25, 108, 133);
+        margin-left: 42%;
+        margin-top: 450px;
+    }
+    /*  */
+    .img8{
+        width: 100%;
+    }
+    #kg1{
+        color: rgb(131, 183, 243);
+        position: absolute;
+        padding-top: 100px;
+        padding-left: 31%;
+        font-size: 18px;
+        text-align: center;
+        font-weight: bold;
+    }
+    #kg2{
+        color: rgb(131, 183, 243);
+        position: absolute;
+        padding-top: 180px;
+        padding-left: 41%;
+        font-size: 30px;
+        font-weight: bold;
+    }
+    .icon{
+        padding-left: 640px ;
+        padding-top: 300px;
+    }
+    /*  */
+    .s0451{
+        position: absolute;
+    }
+    a{
+        text-decoration: none;
+        color: white;
+    }
+    .s0451{
+        position: absolute;
+        font-weight: bold;
+        color: white;
+        padding-top: 500px;
+        padding-left: 100px;
+        font-size: 15px;
+    }
+    #s0452{
+        position: absolute;
+        font-weight: bold;
+        color: white;
+        padding-top: 550px;
+        padding-left: 100px;
+        font-size: 15px;
+    }
+    .s0453{
+        position: absolute;
+        font-weight: bold;
+        color: white;
+        padding-top: 500px;
+        padding-left: 900px;
+        font-size: 15px;
+    }
+    .s0454{
+        position: absolute;
+        font-weight: bold;
+        color: white;
+        padding-top: 500px;
+        padding-left: 1100px;
+        font-size: 15px;
+    }
+    .s0455{
+        position: absolute;
+        font-weight: bold;
+        color: white;
+        padding-top: 500px;
+        padding-left: 1300px;
+        font-size: 15px;
+    }
+    /*  */
+    nav{
+        padding-top: 40px;
+        position: absolute;
+        margin-left:65%;
+        margin-right: 50px;
+    }
+    nav a{
+        font-weight: bold;
+        font: size 14px;
+        text-transform: capitalize;
+        color: white;
+        text-decoration: none;
+        line-height: 100px;
+        position: relative;
+        z-index: 1;
+        text-align: center;
+        margin-left: 30px;
+    }
+    nav .animation{
+        position: absolute;
+        height:2px ;
+        bottom:0;
+        z-index: 1;
+        background-color: #0dc0c0;
+        transition: all .5s ease 0s;
+    }
+    nav a:hover{
+        color: #0dc0c0;
+    }
+    .dropdown {
+        position: relative;
+        display: inline-block;
+    }
+    .dropdown-content {
+        display: none;
+        position: absolute;
+        background-color: white;
+        min-width: 160px;
+        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+        z-index: 1;
+    
+    }
+    .dropdown-content a {
+        padding: 12px 16px;
+        text-decoration: none;
+        display: block;
+        text-align: left;
+        font-size: 14px;
+        font-weight: 500;
+        width: 160px;
+        margin: 0 3px 0 1px;
+        height: 28px;
+        line-height: 28px;
+        padding: 0 16px;
+        text-align: left;
+        background: none;
+        color: black;
+        border-bottom: 0.5px solid #828383;
+    }
+    .dropdown:hover .dropdown-content {
+        display: block;
+    }
+
+
+
+
+
